@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HogansAlley/Scenes/Shooter.unity
+  isLoaded: 1
+  isActive: 1
